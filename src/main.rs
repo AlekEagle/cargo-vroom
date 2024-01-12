@@ -2,7 +2,7 @@
 use std::process::Command;
 
 fn main() {
-  let args = std::env::args().skip(1).collect::<Vec<_>>();
+  let args = std::env::args().skip(2).collect::<Vec<_>>();
   let mut cmd = Command::new("cargo");
   cmd.arg("run");
   cmd.args(&args);
