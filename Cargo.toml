@@ -1,6 +1,6 @@
 [package]
 name = "cargo-vroom"
-version = "4.2.0-alpha.69"
+version = "4.2.0"
 edition = "2021"
 description = "Car no go run, car go vroom!"
 authors = [
