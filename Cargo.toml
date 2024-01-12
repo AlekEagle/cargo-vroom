@@ -1,0 +1,11 @@
+[package]
+name = "cargo-vroom"
+version = "4.2.0-alpha.69"
+edition = "2021"
+description = "Car no go run, car go vroom!"
+authors = [
+  "Alek Evans <github@alekeagle.com>"
+]
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/AlekEagle/cargo-vroom"
+homepage = "https://alekeagle.com"
